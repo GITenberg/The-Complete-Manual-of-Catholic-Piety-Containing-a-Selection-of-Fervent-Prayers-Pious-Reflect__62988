@@ -1,0 +1,30 @@
+_repo: The-Complete-Manual-of-Catholic-Piety-Containing-a-Selection-of-Fervent-Prayers-Pious-Reflect__62988
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gahan, William
+    alias: Gahan, Rev. William
+    birthdate: 1730
+    deathdate: 1804
+    gutenberg_agent_id: '52215'
+    url: http://www.gutenberg.org/2009/agents/52215
+    wikipedia: https://en.wikipedia.org/wiki/William_Gahan
+description: ''
+gutenberg_issued: '2020-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Liturgy'
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Prayers and devotions -- English'
+- GITenberg
+title: "The Complete Manual of Catholic Piety\r\nContaining a Selection of Fervent\
+  \ Prayers, Pious Reflection, and Solid Instructions, Adapted to Every State of Life.\
+  \ To Which is Annexed a Supplement, Containing Excellent and Approved Devotions,\
+  \ With the Epistles and Gospels for All the Sundays and Festivals of the Year."
+url: http://www.gutenberg.org/ebooks/62988
